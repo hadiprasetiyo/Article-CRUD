@@ -2,6 +2,13 @@
 
 Ini adalah project CRUD sederhana menggunakan bahasa pemrograman PHP yang terintegrasi dengan Database MySQL bertujuan untuk mengelola artikel. Aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, dan menghapus artikel, serta melihat detail dari masing-masing artikel.
 
+## 🌟 Features
+
+- CRUD operations for managing articles.
+- Responsive UI design using Bootstrap.
+- Image upload for article thumbnails.
+- Categorized articles for easy navigation.
+
 ## 📝 Project Structure
 ```
 project/
@@ -47,13 +54,6 @@ project/
 │
 └── index.php
 ```
-## 🌟 Features
-
-- CRUD operations for managing articles.
-- Responsive UI design using Bootstrap.
-- Image upload for article thumbnails.
-- Categorized articles for easy navigation.
-
 ## 📂 File Descriptions
 
 ### `config/connection.php`
