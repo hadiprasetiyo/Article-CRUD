@@ -47,16 +47,6 @@ project/
 │
 └── index.php
 ```
-## 🤝 Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-1. Fork this repository.
-2. Create a new branch (`git checkout -b new-feature`).
-3. Make the necessary changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to your branch (`git push origin new-feature`).
-6. Create a new Pull Request.
-
 ## 🌟 Features
 
 - CRUD operations for managing articles.
@@ -89,6 +79,16 @@ File `index.php` adalah file utama dalam aplikasi ini. Berikut adalah fungsional
 - Menghubungkan ke database MySQL menggunakan file `config/connection.php`.
 - Menggunakan file CSS dari direktori `css/` untuk memperindah tampilan aplikasi.
 - Menggunakan file JavaScript dari direktori `js/` untuk meningkatkan pengalaman pengguna.
+
+## 🤝 Contributing
+
+If you'd like to contribute to this project, please follow these steps:
+1. Fork this repository.
+2. Create a new branch (`git checkout -b new-feature`).
+3. Make the necessary changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to your branch (`git push origin new-feature`).
+6. Create a new Pull Request.
 
 ## 📜 License 
 Project ini bersifat open-source dan tersedia di bawah [MIT License](LICENSE).
