@@ -27,10 +27,10 @@ project/
 │ └── datatables.js
 │
 └── pages/
-├── add_artikel.php
-├── delete_artikel.php
-├── detail_artikel.php
-├── edit_artikel.php
+│ ├── add_artikel.php
+│ ├── delete_artikel.php
+│ ├── detail_artikel.php
+│ └── edit_artikel.php
 └── index.php
 ```
 
