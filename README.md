@@ -31,7 +31,7 @@ project/
 │ │ ├── chart-area-demo.js
 │ │ ├── chart-bar-demo.js
 │ │ ├── chart-pie-demo.js
-│ │ ├── datatables-demo.js
+│ │ └── datatables-demo.js
 │ ├── sb-admin-2.js
 │ └── sb-admin-2.min.js
 │
