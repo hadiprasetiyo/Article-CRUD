@@ -78,6 +78,10 @@ Direktori ini berisi gambar yang digunakan dalam aplikasi, seperti gambar mini a
 Direktori ini berisi file JavaScript untuk meningkatkan pengalaman pengguna, seperti tabel data dan grafik.
 ### `pages/`
 Direktori ini berisi file PHP untuk halaman-halaman berbeda dalam aplikasi, termasuk menambah, menghapus, mengedit, dan menampilkan artikel-artikel.
+### `public/`
+Direktori `public/` berisi file-file yang dapat diakses secara langsung oleh pengguna melalui web server. Ini termasuk gambar, file JavaScript, file CSS, dan file-file lain yang diperlukan untuk tampilan dan fungsionalitas aplikasi.
+### `vendor/`
+Direktori `vendor/` berisi semua dependensi pihak ketiga yang digunakan dalam proyek ini. Ini biasanya termasuk framework PHP, perpustakaan, atau paket lain yang diinstal melalui manajer paket seperti Composer.
 ### `index.php`
 File `index.php` adalah file utama dalam aplikasi ini. Berikut adalah fungsionalitas utama yang dimiliki file ini:
 - Memuat halaman utama aplikasi.
