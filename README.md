@@ -10,26 +10,41 @@ project/
 │ └── connection.php
 │
 ├── css/
-│ ├── styles.css
-│ └── styles.min.css
+│ ├── sb-admin-2.css
+│ └── sb-admin-2.min.css
 │
 ├── database/
 │ └── article.sql
 │
 ├── img/
-│ ├── profile_picture.jpg
-│ ├── favicon.ico
-│ └── undraw_image.svg
+│ ├── article.png
+│ ├── hadiiyok.jpg
+│ ├── undraw_posting_photo.svg
+│ ├── undraw_profile_1.svg
+│ ├── undraw_profile_2.svg
+│ ├── undraw_profile_3.svg
+│ ├── undraw_profile.svg
+│ └── undraw_rocket.svg
 │
 ├── js/
-│ ├── chart.js
-│ └── datatables.js
+│ ├── demo/
+│ │ ├── chart-area-demo.js
+│ │ ├── chart-bar-demo.js
+│ │ ├── chart-pie-demo.js
+│ │ ├── datatables-demo.js
+│ ├── sb-admin-2.js
+│ └── sb-admin-2.min.js
 │
 └── pages/
 │ ├── add_artikel.php
 │ ├── delete_artikel.php
 │ ├── detail_artikel.php
 │ └── edit_artikel.php
+│
+└── public/
+│
+└── vendor/
+│
 └── index.php
 ```
 ## 🤝 Contributing
