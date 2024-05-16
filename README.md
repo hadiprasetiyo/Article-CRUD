@@ -3,7 +3,6 @@
 Ini adalah project CRUD sederhana menggunakan bahasa pemrograman PHP yang terintegrasi dengan Database MySQL bertujuan untuk mengelola artikel. Aplikasi ini memungkinkan pengguna untuk menambahkan, mengedit, dan menghapus artikel, serta melihat detail dari masing-masing artikel.
 
 ## 📝 Project Structure
-
 ```
 project/
 │
@@ -33,7 +32,6 @@ project/
 │ └── edit_artikel.php
 └── index.php
 ```
-
 ## 🤝 Contributing
 
 If you'd like to contribute to this project, please follow these steps:
@@ -65,6 +63,13 @@ Direktori ini berisi gambar yang digunakan dalam aplikasi, seperti gambar mini a
 Direktori ini berisi file JavaScript untuk meningkatkan pengalaman pengguna, seperti tabel data dan grafik.
 ### `pages/`
 Direktori ini berisi file PHP untuk halaman-halaman berbeda dalam aplikasi, termasuk menambah, menghapus, mengedit, dan menampilkan artikel-artikel.
+### `index.php`
+File `index.php` adalah file utama dalam aplikasi ini. Berikut adalah fungsionalitas utama yang dimiliki file ini:
+- Memuat halaman utama aplikasi.
+- Menampilkan daftar artikel dengan fungsi CRUD (Create, Read, Update, Delete).
+- Menghubungkan ke database MySQL menggunakan file `config/connection.php`.
+- Menggunakan file CSS dari direktori `css/` untuk memperindah tampilan aplikasi.
+- Menggunakan file JavaScript dari direktori `js/` untuk meningkatkan pengalaman pengguna.
 
 ## 📜 License 
 Project ini bersifat open-source dan tersedia di bawah [MIT License](LICENSE).
