@@ -42,16 +42,18 @@ project/
 │ ├── sb-admin-2.js
 │ └── sb-admin-2.min.js
 │
-└── pages/
+├── pages/
 │ ├── add_artikel.php
 │ ├── delete_artikel.php
 │ ├── detail_artikel.php
 │ └── edit_artikel.php
 │
-└── public/
+├── public/
 │
-└── vendor/
+├── vendor/
 │
+├── LICENSE
+├── README.md
 └── index.php
 ```
 ## 📂 File Descriptions
