@@ -93,7 +93,7 @@ If you'd like to contribute to this project, please follow these steps:
 6. Create a new Pull Request.
 
 ## 📜 License 
-Project ini bersifat open-source dan tersedia di bawah [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 - **Hadi Prasetiyo** - [hadiiyok](https://github.com/hadiprasetiyo)
